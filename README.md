@@ -1,5 +1,7 @@
 # US-Racial-Disparity
 
+![alt text](https://github.com/elliotip1994/US-Racial-Disparity/blob/master/Image/racial%20disparity.jpg)
+
 On a typical day in the United States, more than 50,000 traffic stops are made by police. These data have been recorded over the past 
 decade and analysed by the Standford Open Policing Project team on whether police treat minority groups unfairly. You can find their 
 published paper here (https://5harad.com/papers/traffic-stops.pdf) using the same set of data (https://openpolicing.stanford.edu/data/).
